@@ -1,0 +1,38 @@
+p{
+color:magenta;
+    font-family : Comic sans MS;
+    
+}
+
+h1{
+    font-size : 22px;
+    color: lemonchiffon;
+    font-family : arial;
+}
+
+h2{
+    background-color:RebeccaPurple;
+    color : goldenrod;
+}
+
+
+body{
+background-color:lawngreen ;
+}
+-gultext{
+    color:yellow;
+}
+
+.center{
+     text-align : center ; 
+    }
+.right{
+text-align : right ;
+    
+    }
+.BEGONE{
+    text-decoration: none ;
+}
+
+.border{
+    border: 2px solid black;
